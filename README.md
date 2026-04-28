@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,49 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+
+# E-Learning Platform
+
+An interactive E-Learning web application built with React.js.
+
+## Features
+
+* Modern responsive UI
+* Course showcase sections
+* Clean landing page design
+* Fast React-based performance
+* Easy to customize
+
+## Tech Stack
+
+* React.js
+* JavaScript
+* CSS3
+* HTML5
+
+## Installation
+
+```bash
+npm install
+npm start
+```
+
+Runs locally at:
+
+http://localhost:3000
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Author
+
+Divya Mehta
+
+## GitHub Repository
+
+https://github.com/divyamehta191/e-learning
