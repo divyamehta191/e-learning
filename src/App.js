@@ -11,7 +11,7 @@ function App() {
           <div className="logo">
             <img
               className="eleimg"
-              src="/elearning.png"
+              src={process.env.PUBLIC_URL + "/elearning.png"}
               alt="logo"
             />
           </div>
@@ -63,7 +63,7 @@ function App() {
           </div>
 
           <div className="rightsection">
-            <img src="/Hero_Banner.png" alt="banner" />
+            <img src={process.env.PUBLIC_URL +"/Hero_Banner.png"} alt="banner" />
           </div>
         </header>
 
@@ -72,10 +72,10 @@ function App() {
           <h2>eLearning Tech Academy In The News</h2>
 
           <div className="images">
-            <img src="/google.webp" alt="google" />
-            <img src="/visa.png" alt="visa" />
-            <img src="/apple.png" alt="apple" />
-            <img src="/trusted.png" alt="trusted" />
+        <img src={process.env.PUBLIC_URL + "/google.webp"} alt="google" />
+<img src={process.env.PUBLIC_URL + "/visa.png"} alt="visa" />
+<img src={process.env.PUBLIC_URL + "/apple.png"} alt="apple" />
+<img src={process.env.PUBLIC_URL + "/trusted.png"} alt="trusted" />
           </div>
 
           <div className="content1">
@@ -227,7 +227,7 @@ function App() {
         </div>
 
         <div className="ssrightsection">
-          <img src="/Hero_Banner.png" alt="contact" />
+            <img src={process.env.PUBLIC_URL +"/Hero_Banner.png"} alt="banner" />
         </div>
       </div>
 
