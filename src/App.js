@@ -266,7 +266,7 @@ function App() {
       <h3>Get in Touch</h3>
       <ul>
         <li>Chandigarh, India</li>
-        <li>+91 7027316762</li>
+       
         <li>divyamehta610@gmail.com</li>
       </ul>
     </div>
